@@ -1,6 +1,6 @@
-🛡️ Pro Lite SIEM – 
+🛡️ ThreatLens SIEM – 
 
-Pro Lite SIEM is a practical Security Information and Event Management (SIEM) platform built with Python and Flask.
+ThreatLens SIEM is a practical Security Information and Event Management (SIEM) platform built with Python and Flask.
 
 📌 Overview
 

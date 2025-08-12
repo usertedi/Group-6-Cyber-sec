@@ -1,0 +1,7 @@
+{
+  "blocked_sites": ["example.com", "*.gambling.com"],
+  "keywords": {
+    "en": ["badword1", "badword2"],
+    "am": ["ቃል1", "ቃል2"]
+  }
+}

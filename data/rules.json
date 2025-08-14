@@ -1,0 +1,64 @@
+{
+  "blocked_sites": [
+    "*.pornhub.com",
+    "*.xvideos.com",
+    "*.redtube.com",
+    "*.bet365.com",
+    "*.1xbet.com",
+    "*.gambling.com",
+    "*.casino.com",
+    "scam-site.com",
+    "*.fakebankupdate.com",
+    "*.extremistnews.org",
+    "*.malware-download.com",
+    "*.virus-file.net",
+    "*.phishingsite.co",
+    "*.deepfakevideos.com",
+    "*.adultsite.et",
+    "*.lottery-fraud.et",
+    "*.propaganda.et"
+  ],
+  "keywords": {
+    "en": [
+      "porn",
+      "xxx",
+      "sex",
+      "nude",
+      "naked",
+      "gambling",
+      "betting",
+      "casino",
+      "extremist",
+      "terrorism",
+      "scam",
+      "fake news",
+      "phishing",
+      "malware"
+    ],
+    "am": [
+      "ወሲብ",
+      "ወሲባዊ",
+      "ዕርቃን",
+      "አደገኛ ጨዋታ",
+      "ጨዋታ ቤት",
+      "ጭካኔ",
+      "ሽርሽር",
+      "ሐሰት ዜና",
+      "ትርጓሜ አንደበት",
+      "አሳቂኝ ጽሑፍ",
+      "ፍቅር አንደበት"
+    ],
+    "om": [
+      "saala",
+      "dhalaa qaama",
+      "baqqala saalaa",
+      "taphni maallaqaa",
+      "guduunfaa sobaa",
+      "sobaa odeessa",
+      "waraana",
+      "badii",
+      "jecha saalaa",
+      "balbala xuraawaa"
+    ]
+  }
+}
